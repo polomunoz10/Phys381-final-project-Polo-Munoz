@@ -27,7 +27,7 @@ df = pd.DataFrame({
     'Speed 2019 (km/h)': tel_2019['Speed'],
     'Speed 2020 (km/h)': tel_2020['Speed']
 })
-df.to_csv('leclerc_spa_2019_vs_2020.csv', index=False)
+df.to_csv('data/leclerc_spa_telemetry_comparison_2019_vs_2020.csv', index=False)
 print("Saved data to leclerc_spa_2019_vs_2020.csv")
 
 # === Plot 1: Speed ===
@@ -42,7 +42,7 @@ plt.grid(True)
 plt.tight_layout()
 
 # Save the figure
-plt.savefig('leclerc_spa_2019_vs_2020.png', dpi=300)
+plt.savefig('figures/leclerc_spa_speed_comparison_2019_vs_2020.png', dpi=300)
 print("Saved figure to leclerc_spa_2019_vs_2020.png")
 
 # Show the plot
