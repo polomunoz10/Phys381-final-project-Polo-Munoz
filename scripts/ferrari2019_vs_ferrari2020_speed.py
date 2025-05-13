@@ -2,7 +2,7 @@
 """
 leclerc_vs_hamilton_all_races.py
 
-Leclerc and Vettel telemetry for an individual race in 20. It only covers the fastest lap for the respctive driver over the desired session and Race.
+Leclerc and Vettel telemetry for an individual race in 2020. It only covers the fastest lap for the respctive driver over the desired session and Race.
 """
 
 
