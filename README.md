@@ -14,7 +14,7 @@ The goal is to determine whether on-track telemetry supports suspicions of nonco
 - `README.md`: Project documentation
 
 ## Requirements
-- Python 3.x
+- Python 3.9.13
 - fastf1
 - matplotlib
 - numpy
