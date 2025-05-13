@@ -1,3 +1,10 @@
+"""
+leclerc_vs_hamilton_all_races.py
+
+Compares average speed and throttle  of Charles Leclerc across all 2019 and 2020 races using telemetry data. 
+"""
+
+
 import fastf1
 from fastf1 import plotting
 import matplotlib.pyplot as plt
