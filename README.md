@@ -12,6 +12,14 @@ Plots and data outputs are generated automatically when the code is run. See plt
 - `temp.py`: Python script for loading, processing, and plotting telemetry data
 - `figure.png`: Placeholder for output figure
 - `README.md`: Project documentation
+## Output
+
+Each script is set up to generate and save outputs automatically:
+- Plots are saved using `plt.savefig(...)`
+- Data tables are saved using `df.to_csv(...)`
+
+These files will be created when the code is run locally. See each script for details.
+  
 
 ## Requirements
 - Python 3.9.13
