@@ -1,4 +1,4 @@
-# Sample script comapring Ferrari's speed in 2019 and 2020
+# Sample script comapring Ferrari's speed for the Belgian GP for  2019 and 2020
 
 
 
