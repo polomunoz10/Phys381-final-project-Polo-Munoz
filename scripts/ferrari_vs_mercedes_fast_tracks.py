@@ -1,3 +1,11 @@
+"""
+leclerc_vs_hamilton_all_races.py
+
+Leclerc vs Hamilton histograms across Azerbaijan, Spa, Monza, and Mexico for the year 2019
+"""
+
+
+
 import fastf1
 from fastf1 import plotting
 import matplotlib.pyplot as plt
