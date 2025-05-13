@@ -7,7 +7,7 @@ This project investigates whether Ferrari may have had an engine performance adv
 
 The goal is to determine whether on-track telemetry supports suspicions of noncompliant fuel flow manipulation.
 
-
+Plots and data outputs are generated automatically when the code is run. See plt.savefig() and df.to_csv() lines in each script.
 ## Files
 - `temp.py`: Python script for loading, processing, and plotting telemetry data
 - `figure.png`: Placeholder for output figure
